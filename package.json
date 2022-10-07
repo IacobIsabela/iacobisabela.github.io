@@ -1,7 +1,7 @@
 {
   "name": "presentation-website2",
   "version": "0.1.0",
-  "homepage": "https://iacobisabela.github.io/public/index.html",
+  "homepage": "https://iacobisabela.github.io",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8321ec04.css",
+    "main.js": "/static/js/main.b8d1e9f1.js",
+    "static/media/arcSpace.jpg": "/static/media/arcSpace.86c86a1a3cf162970073.jpg",
+    "static/media/books.jpg": "/static/media/books.a48ca0642981974c1a56.jpg",
+    "static/media/chess.jpg": "/static/media/chess.4717af990c7cef239479.jpg",
+    "static/media/meok5.png": "/static/media/meok5.3fbb9ad1cdc9ab4d0348.png",
+    "static/media/about.jpg": "/static/media/about.4da181f65df44b0d0cc1.jpg",
+    "static/media/moody.jpg": "/static/media/moody.be7424b998c974024092.jpg",
+    "static/media/food.jpg": "/static/media/food.183bfc95a32eea3ba528.jpg",
+    "static/media/cat.jpg": "/static/media/cat.991de89da2d9e36d968e.jpg",
+    "static/media/eu.png": "/static/media/eu.108070d6f6282bf23b22.png",
+    "static/media/cv.pdf": "/static/media/cv.771b1cd8b4539e3d347f.pdf",
+    "index.html": "/index.html",
+    "main.8321ec04.css.map": "/static/css/main.8321ec04.css.map",
+    "main.b8d1e9f1.js.map": "/static/js/main.b8d1e9f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8321ec04.css",
+    "static/js/main.b8d1e9f1.js"
+  ]
+}
